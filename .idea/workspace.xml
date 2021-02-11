@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cbe8aa4-a966-4ba1-b52f-863e8f7c77cc" name="Default Changelist" comment="" />
+    <list default="true" id="2cbe8aa4-a966-4ba1-b52f-863e8f7c77cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bors.toml" beforeDir="false" afterPath="$PROJECT_DIR$/bors.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613001500912</updated>
-      <workItem from="1613001502002" duration="330000" />
+      <workItem from="1613001502002" duration="838000" />
     </task>
     <servers />
   </component>
